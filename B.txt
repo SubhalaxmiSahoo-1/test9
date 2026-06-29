@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 Now I am fixing the error 
 now i have fixed 100% of error
+=======
+I am write code for login feature
+70% code done
+By my self
+>>>>>>> Stashed changes
 Cuttack
 Banki
 Kalapathara
